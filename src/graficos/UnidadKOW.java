@@ -11,7 +11,8 @@ public class UnidadKOW {
     
     private String army;
     private String nombre;
-    private int puntos;
+    private int puntos; 
+private int variablenueva;
     
     
     public UnidadKOW(){}
